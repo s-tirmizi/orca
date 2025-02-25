@@ -1,0 +1,6 @@
+Applications:
+    orca:
+        app_types:
+            - orcaApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
